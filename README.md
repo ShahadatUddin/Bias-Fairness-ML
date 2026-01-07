@@ -10,9 +10,9 @@ Please see the supplementary file for the details of the data source and how to 
 
 # Code Content
 Python scripts for:
-    Bias assessment using EMD.
-    Fairness evaluation framework.
-    Bias mitigation via resampling.
+  - Bias assessment using EMD.
+  - Fairness evaluation framework.
+  - Bias mitigation via resampling.
 
 # Citation
 Uddin, S., Liang, H., Moni, M.A., Gao, J., & Lu, H. (2026).
